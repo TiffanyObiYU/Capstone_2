@@ -1,0 +1,29 @@
+======== Order Summary ========
+Customer Name: TIFFANY
+Items: 
+[ SANDWICH: 
+ Size - LARGE
+ Bread - Wrap
+ Meats - [steak, ham, salami]
+ Cheeses - [american, provolone, cheddar]
+ Regular Toppings - [lettuce, peppers, onions, tomatoes, jalapeños]
+ Sauces - [mayo, mayo]
+ Toasted - true
+ Price - $18.55, DRINK: 
+ Size - MEDIUM
+ Flavor - Ginger-Ale
+ Price - $2.50, CHIPS:  Sun Chips
+ Price - $1.50,  SANDWICH: 
+ Size - LARGE
+ Bread - Wrap
+ Meats - [steak, ham, salami]
+ Cheeses - [american, provolone, cheddar]
+ Regular Toppings - [lettuce, peppers, onions, tomatoes, jalapeños]
+ Sauces - [mayo, mayo]
+ Toasted - true
+ Price - $18.55, DRINK: 
+ Size - LARGE
+ Flavor - Lemonade
+ Price - $3.00, CHIPS:  Kettle Cooked
+ Price - $1.50]
+Order Total: $45.60
