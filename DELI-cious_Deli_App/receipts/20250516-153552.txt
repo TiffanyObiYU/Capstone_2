@@ -1,0 +1,38 @@
+======== Order Summary ========
+Customer Name: TRACY
+Items: 
+[ SANDWICH: 
+ Size - MEDIUM
+ Bread - Rye
+ Meats - [salami, roast beef]
+ Cheeses - [swiss, swiss]
+ Regular Toppings - [lettuce, peppers, onions, tomatoes]
+ Sauces - [mayo, mustard]
+ Toasted - false
+ Price - $12.10,  SANDWICH: 
+ Size - MEDIUM
+ Bread - Rye
+ Meats - [salami, roast beef]
+ Cheeses - [swiss, swiss]
+ Regular Toppings - [lettuce, peppers, onions, tomatoes]
+ Sauces - [mayo, mustard]
+ Toasted - false
+ Price - $12.10, DRINK: 
+ Size - LARGE
+ Flavor - Coke
+ Price - $3.00, CHIPS:  Lays
+ Price - $1.50, CHIPS:  Kettle Cooked
+ Price - $1.50,  SANDWICH: 
+ Size - MEDIUM
+ Bread - Rye
+ Meats - [salami, roast beef]
+ Cheeses - [swiss, swiss]
+ Regular Toppings - [lettuce, peppers, onions, tomatoes]
+ Sauces - [mayo, mustard]
+ Toasted - false
+ Price - $12.10, DRINK: 
+ Size - SMALL
+ Flavor - Pepsi
+ Price - $2.00, CHIPS:  Kettle Cooked
+ Price - $1.50]
+Order Total: $95.15

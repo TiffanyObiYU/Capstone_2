@@ -1,0 +1,17 @@
+======== Order Summary ========
+Customer Name: FRANK
+Items: 
+[ SANDWICH: 
+ Size - MEDIUM
+ Bread - White
+ Meats - [steak]
+ Cheeses - [american, provolone]
+ Regular Toppings - [lettuce, peppers, onions, tomatoes]
+ Sauces - [mayo, mustard]
+ Toasted - true
+ Price - $11.10, DRINK: 
+ Size - MEDIUM
+ Flavor - Coke
+ Price - $2.50, CHIPS:  Lays
+ Price - $1.50]
+Order Total: $15.10

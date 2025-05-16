@@ -15,7 +15,7 @@ public class Order {
 
     public Order() {
         nameOnOrder = "";
-        orderItems = new ArrayList<Item>();
+        orderItems = new ArrayList<>();
     }
 
     public Order(String nameOnOrder, List<Item> orderItems, double orderTotal) {

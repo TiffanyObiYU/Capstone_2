@@ -141,6 +141,7 @@ public class OrderView {
                         System.out.println("Your order is confirmed and should be ready soon");
                         System.out.println("Thank you!");
                         //done with menu after confirming
+                        newOrder = new Order();
                         isConfirming = false;
                     }else {
                         System.out.println("ERROR: Systems failure - Please try again later.");
@@ -153,7 +154,7 @@ public class OrderView {
                     System.out.println("...................................");
                     System.out.println(".........................");
                     System.out.println(".............");
-                    newOrder = null;
+                    newOrder = new Order();
                     isConfirming = false;
 
                 }

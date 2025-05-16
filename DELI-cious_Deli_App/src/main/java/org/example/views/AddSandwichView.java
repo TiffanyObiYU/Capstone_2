@@ -10,10 +10,10 @@ import java.util.Scanner;
 
 public class AddSandwichView {
     static Scanner scanner = new Scanner(System.in);
-    static Sandwich sandwich = new Sandwich();
+
 
     public static Sandwich addSandwichToOrder(){
-
+        Sandwich sandwich = new Sandwich();
         // Select Bread Type
         sandwich.setBreadType(selectBread());
 

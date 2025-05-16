@@ -1,0 +1,26 @@
+======== Order Summary ========
+Customer Name: DEXTER
+Items: 
+[ SANDWICH: 
+ Size - LARGE
+ Bread - White
+ Meats - [steak, steak, chicken]
+ Cheeses - [american, american]
+ Regular Toppings - [lettuce, peppers, onions, tomatoes]
+ Sauces - [mayo, mustard]
+ Toasted - true
+ Price - $17.65,  SANDWICH: 
+ Size - LARGE
+ Bread - White
+ Meats - [steak, steak, chicken]
+ Cheeses - [american, american]
+ Regular Toppings - [lettuce, peppers, onions, tomatoes]
+ Sauces - [mayo, mustard]
+ Toasted - true
+ Price - $17.65, DRINK: 
+ Size - LARGE
+ Flavor - Coke
+ Price - $3.00, CHIPS:  Lays
+ Price - $1.50, CHIPS:  Kettle Cooked
+ Price - $1.50]
+Order Total: $49.35

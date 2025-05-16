@@ -1,0 +1,29 @@
+======== Order Summary ========
+Customer Name: TOM
+Items: 
+[ SANDWICH: 
+ Size - MEDIUM
+ Bread - Wrap
+ Meats - [steak, ham, salami]
+ Cheeses - [american, provolone]
+ Regular Toppings - [lettuce, peppers, onions, tomatoes]
+ Sauces - [mayo, mustard]
+ Toasted - true
+ Price - $13.10, DRINK: 
+ Size - LARGE
+ Flavor - Apple Juice
+ Price - $3.00, CHIPS:  Sun Chips
+ Price - $1.50,  SANDWICH: 
+ Size - LARGE
+ Bread - Rye
+ Meats - [roast beef, chicken]
+ Cheeses - [american, american]
+ Regular Toppings - [lettuce, peppers, onions, tomatoes]
+ Sauces - [mayo, mustard]
+ Toasted - false
+ Price - $16.15, DRINK: 
+ Size - MEDIUM
+ Flavor - Ginger-Ale
+ Price - $2.50, CHIPS:  Kettle Cooked
+ Price - $1.50]
+Order Total: $55.35

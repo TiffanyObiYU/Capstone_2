@@ -1,0 +1,18 @@
+======== Order Summary ========
+Customer Name: RANDY
+Items: 
+[ SANDWICH: 
+ Size - LARGE
+ Bread - Wheat
+ Meats - [steak, ham, salami]
+ Cheeses - [american, american]
+ Regular Toppings - [lettuce, peppers, onions, tomatoes]
+ Sauces - [mayo, mustard]
+ Toasted - true
+ Price - $17.65, DRINK: 
+ Size - LARGE
+ Flavor - Ginger-Ale
+ Price - $3.00, CHIPS:  Lays
+ Price - $1.50, CHIPS:  Lays
+ Price - $1.50]
+Order Total: $23.65

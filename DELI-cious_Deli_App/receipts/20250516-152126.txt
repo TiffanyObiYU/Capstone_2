@@ -1,0 +1,13 @@
+======== Order Summary ========
+Customer Name: TIFFANY
+Items: 
+[ SANDWICH: 
+ Size - SMALL
+ Bread - White
+ Meats - [steak, ham]
+ Cheeses - [american, provolone]
+ Regular Toppings - [lettuce, peppers, onions, tomatoes]
+ Sauces - [mayo]
+ Toasted - true
+ Price - $8.05]
+Order Total: $8.05
